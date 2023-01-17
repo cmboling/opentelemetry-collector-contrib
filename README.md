@@ -5,7 +5,7 @@
     <a href="https://opentelemetry.io/docs/collector/getting-started/">Getting Started</a>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="https://github.com/open-telemetry/opentelemetry-collector/blob/main/CONTRIBUTING.md">Getting Involved</a>
-    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp; test
     <a href="https://cloud-native.slack.com/archives/C01N6P7KR6W">Getting In Touch</a>
   </strong>
 </p>
